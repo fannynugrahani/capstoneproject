@@ -1,0 +1,36 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Capstone Project</string>
+    <string name="logo">Bright Me</string>
+
+    <string name="title_menu_1">Know and promote local skincare products</string>
+    <string name="title_menu_2">Technology-assisted skin health detection</string>
+    <string name="title_menu_3">Consultation and join the community</string>
+    <string name="desc_menu_1">Know Indonesian skincare products and develop together for advanced Indonesia</string>
+    <string name="desc_menu_2">Know the condition of your facial skin with just a photo and you will be given product recommendations</string>
+    <string name="desc_menu_3">Consult your facial skin with the doctor and join the community to promote local products</string>
+    <string name="learn_now">Get Started</string>
+
+    <string name="email_example">Email</string>
+    <string name="warning_email">Please input format email correctly</string>
+    <string name="password_example">Password</string>
+    <string name="warning_password">Please input password at least 8 character</string>
+    <string name="username_example">Full name</string>
+    <string name="warning_username">Please input username at least 1 word</string>
+    <string name="have_account">Not registered yet?</string>
+    <string name="register">Create an Account</string>
+    <string name="sign_in">Login</string>
+
+    <string name="sign_up">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Let’s Grow Together, Support Local Products!</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+    <string name="already_account">Already have an account?</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_camera">Camera</string>
+    <string name="title_profile">Profile</string>
+
+</resources>
